@@ -1,0 +1,8 @@
+      Aceasta aplicatie consta 
+    in geerarea unui labirint 
+    pe baza preferintei utili-
+    zatorului.
+      In functie de rezolutia 
+    frame-ului care realizeaza
+    procedura,va tine cu cateva
+    secunde mai mult.
